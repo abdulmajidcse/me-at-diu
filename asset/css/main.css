@@ -1,11 +1,15 @@
 main {
-    min-height: calc(100dvh - 150px);
+    min-height: calc(100dvh - 184px);
 }
 
 section {
     max-width: 800px;
     padding: 1.25rem;
     margin: 0 auto;
+}
+
+.screencast-area div {
+    margin-bottom: 25px;
 }
 
 .footer-wrapper {
