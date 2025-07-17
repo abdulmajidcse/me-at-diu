@@ -1,0 +1,7 @@
+.main-wrapper {
+    min-height: 100dvh;
+    background-color: #ffffff;
+    background-image: url('./asset/img/dots.svg');
+    background-repeat: repeat;
+    background-position: 50%;
+}
