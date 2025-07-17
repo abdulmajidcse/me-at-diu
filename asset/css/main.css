@@ -37,3 +37,7 @@ section {
     width: 15px;
     color: black;
 }
+
+.bg-secondary-half {
+    background-color: #6c757d21;
+}
